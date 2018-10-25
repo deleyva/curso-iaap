@@ -1,4 +1,4 @@
-# Introduction
+# Metodologías
 
 Curso de metodología y Herramientas para una teleformación eficaz
 
